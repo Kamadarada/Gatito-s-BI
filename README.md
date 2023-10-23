@@ -16,6 +16,8 @@ Welcome to my Power BI project where I created my very first dashboard! This pro
 - **Data Visualization**: Utilized powerful visualization tools to communicate data effectively.
 - **BI Best Practices**: Applied best practices in the field of Business Intelligence for a top-notch dashboard.
 
+![Gatito's](https://github.com/Kamadarada/Gatito-s-BI/assets/112417899/157c64ab-301c-4562-aafa-c44de43fffd6)
+
 <p align="center">
   Crafted with ❤️ by Felipe Kamada(https://github.com/Kamadarada)
 </p>
